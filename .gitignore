@@ -3,3 +3,5 @@ __pycache__/
 DataSets/
 data_in_folders.csv
 filtered_dataset.csv
+test.jsonl
+train.jsonl
