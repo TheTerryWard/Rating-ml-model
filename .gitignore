@@ -7,3 +7,6 @@ test.jsonl
 train.jsonl
 train2.jsonl
 YandexMAPSdatasetCL.parquet
+halfYANDEXDATASET.parquet
+train.parquet
+test.parquet
