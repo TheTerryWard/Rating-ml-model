@@ -4,7 +4,7 @@ This model is TextCNN(Yoon Kim)
 But this model is learned on russian dataset and use a sentencepice tokenizer.
 
 Quality is 93%
-Loss: 0.2095
+Loss: 0.2076
 
 ![](./DOCS/Screenshot%20from%202025.png)
 
